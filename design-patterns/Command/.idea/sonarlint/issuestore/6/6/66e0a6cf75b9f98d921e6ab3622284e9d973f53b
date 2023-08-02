@@ -1,0 +1,13 @@
+
+t
+java:S1104"YMake totalQuantity a static final constant or non-public and provide accessors if needed.(úÎ÷ƒøÿÿÿÿ
+N
+java:S1444"3Make this "public static totalQuantity" field final(úÎ÷ƒøÿÿÿÿ
+E
+java:S3010"*Remove this assignment of "totalQuantity".(Ïä´²ÿÿÿÿÿ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(ÂÃˆÏ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(ì¸¶Ù
+G
+java:S1068"1Remove this unused "initialAmount" private field.(ü®ïÏ

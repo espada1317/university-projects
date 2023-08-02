@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+Y
+java:S2259&"CA "NullPointerException" could be thrown; "chest" is nullable here.(…τε¥
+Y
+java:S2259#"CA "NullPointerException" could be thrown; "chest" is nullable here.(…τε¥
+Y
+java:S2259)"CA "NullPointerException" could be thrown; "chest" is nullable here.(…τε¥
+>	java:S131""Add a default case to this switch.(ά•8ΰ„¤ι1
